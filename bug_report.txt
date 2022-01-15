@@ -1,1 +1,10 @@
 
+ bug_report: "IMAGINATION"
+ Summary: Во время чтения при моргании в руках япоявляется смартфоне
+ severity: Critical
+  Steps to reproduce:
+    1. Взять книгу
+    2. Начать читать
+    3. Моргнуть
+ Result: Вы держите смартфон и листаете мемы
+ Expected Result: Чтение продолжается
