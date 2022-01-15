@@ -1,0 +1,7 @@
+Тестирование API
+Postman
+Fidler
+Charles
+GitBash
+Bash скриппинг
+Софт скил
